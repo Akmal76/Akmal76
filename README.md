@@ -1,4 +1,6 @@
-### Hi there 👋
+<div align="center">
+<h1> Hi there 👋 </h1>
+</div>
 
 <!--
 **Akmal76/Akmal76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +18,11 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Akmal76&show_icons=true&theme=radical"/>
+<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Akmal76&show_icons=true&theme=radical"/>
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal76&layout=compact&theme=radical"/>
+<br>
+
+<div align="center">
+<img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akmal76&layout=compact&theme=radical"/>
 </div>
