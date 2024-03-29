@@ -21,6 +21,35 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Akmal76&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </div>
 
+## Teaching Assistant
+<table width="100%">
+    <tr>
+         <td> 
+            <div style="padding-top: 10px; padding-bottom: 10px;">
+                <img src="image/PSD.png" style="width:100px">
+            </div>
+        </td>
+        <td>
+            <h4> CSCM601150 - Introduction to Digital Systems </h4>
+            <p> <b> 2023-2024 Odd Semester </b> </p>
+            <p> ⭐️ Coordinator </p>
+        </td>
+    </tr>
+        <tr>
+        <td> 
+            <div style="padding-top: 10px; padding-bottom: 10px;">
+                <img src="image/POK.png" style="width:100px">
+            </div>
+        </td>
+        <td>
+            <h4> CSCM601252 - Introduction to Computer Organization </h4> 
+            <p> <b> 2023-2024 Even Semester </b> </p>
+            <p> ⭐️ Coordinator </p>
+        </td>
+    </tr>
+</table>
+
+
 <!--
 **Akmal76/Akmal76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
