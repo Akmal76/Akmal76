@@ -22,7 +22,7 @@
 </div>
 
 ## Teaching Assistant
-<table width="100%">
+<table style="border-style:dotted;">
     <tr>
          <td> 
             <div style="padding-top: 10px; padding-bottom: 10px;">
@@ -30,20 +30,20 @@
             </div>
         </td>
         <td>
-            <h4> CSCM601150 - Introduction to Digital Systems </h4>
-            <p> <b> 2023-2024 Odd Semester </b> </p>
+            <b> CSCM601150 - Introduction to Digital Systems </b>
+            <p> 2023-2024 Odd Semester </p>
             <p> ⭐️ Coordinator </p>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td> 
             <div style="padding-top: 10px; padding-bottom: 10px;">
                 <img src="image/POK.png" style="width:100px">
             </div>
         </td>
         <td>
-            <h4> CSCM601252 - Introduction to Computer Organization </h4> 
-            <p> <b> 2023-2024 Even Semester </b> </p>
+            <b> CSCM601252 - Introduction to Computer Organization </b> 
+            <p> 2023-2024 Even Semester </p>
             <p> ⭐️ Coordinator </p>
         </td>
     </tr>
