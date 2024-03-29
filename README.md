@@ -25,7 +25,7 @@
 <table style="border-style:dotted;">
     <tr>
          <td> 
-            <div style="padding-top: 10px; padding-bottom: 10px;">
+            <div style="padding-top: 30px; padding-bottom: 30px;">
                 <img src="image/PSD.png" style="width:100px">
             </div>
         </td>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
         <td> 
-            <div style="padding-top: 10px; padding-bottom: 10px;">
+            <div style="padding-top: 30px; padding-bottom: 30px;">
                 <img src="image/POK.png" style="width:100px">
             </div>
         </td>
