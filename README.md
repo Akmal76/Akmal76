@@ -1,4 +1,5 @@
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Akmal76.visitor-badge)
+![](https://komarev.com/ghpvc/?username=Akmal76&style=for-the-badge)
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Helvetica&weight=700&size=50&pause=1000&color=BCFCF6&center=true&vCenter=true&random=false&width=640&height=70&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BB;I'm+Akmal+Ramadhan!+%F0%9F%98%81" alt="Typing SVG" /></a>
