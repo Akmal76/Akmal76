@@ -1,4 +1,3 @@
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Akmal76.visitor-badge)
 ![](https://komarev.com/ghpvc/?username=Akmal76&style=for-the-badge)
 
 <div align="center">
