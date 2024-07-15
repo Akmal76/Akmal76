@@ -32,6 +32,7 @@
         <td>
             <b> CSCM601150 - Introduction to Digital Systems </b>
             <p> 2023-2024 Odd Semester </p>
+            <p> 2024-2025 Odd Semester </p>
             <p> ⭐️ Coordinator </p>
         </td>
     </tr>
